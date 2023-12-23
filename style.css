@@ -22,7 +22,7 @@
        
 }
 .logo{
-    background-image: url("./images/amazon_logo.png");
+    background-image: url("../images/amazon_logo.png");
     height: 70px;
     width:100%;
     object-fit: cover;
@@ -232,7 +232,7 @@ height:30px;
     height:36px;
 }
 .hero-section{
-    background-image: url("./images/hero_section.jpg");
+    background-image: url("../images/hero_section.jpg");
     height:350px;
     width:100vw;
     object-fit: cover;
